@@ -1,0 +1,27 @@
+/Manifest.toml
+/refactorideas.md
+/CHANGELOG.md
+/test/Manifest.toml
+/docs/Manifest.toml
+docs/build/
+*.info
+*.cov
+*.html
+test/test.jl
+*.png
+*.sv
+*.png
+/.vscode
+# Resolve package environments without local checkout paths.
+/benchmark/Manifest.toml
+/benchmark2
+/optimization
+/plots
+/visualize
+*.dat
+*.pdf
+*.csv
+*.hdf5
+*.h5
+/.VSCodeCounter
+/test/endtoend
