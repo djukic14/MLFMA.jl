@@ -31,5 +31,5 @@ MLFMA = {path = ".."}
 
 [compat]
 H2FactoryTestUtils = "0.1"
-JuliaFormatter = "=2.12.4"
+JuliaFormatter = "=2.12.4, 2.14"
 julia = "1.11"
