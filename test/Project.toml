@@ -30,6 +30,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 MLFMA = {path = ".."}
 
 [compat]
+CompScienceMeshes = "1.0.0"
 H2FactoryTestUtils = "0.1"
 JuliaFormatter = "=2.12.4"
 julia = "1.11"
