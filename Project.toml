@@ -50,7 +50,7 @@ FastGaussQuadrature = "0.5, 1"
 # all invalid compat specifiers under this Pkg.
 H2Factory = "0.1"
 H2Trees = "0.4"
-JuliaFormatter = "=2.12.4"
+JuliaFormatter = "=2.12.4, 2.14"
 LinearAlgebra = "1"
 OhMyThreads = "0.8"
 Random = "1"
